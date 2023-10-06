@@ -93,7 +93,8 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 
 # Right Join
 ![image](https://github.com/imthiyas19/EX-3-SubQueries-Views-and-Joins/assets/120353416/ab70b392-e6db-4d9e-970e-5c386be57c4d)
-
+# RESULT:
+Hence successfully created SubQueries, Views and Joins.
 
 
 
